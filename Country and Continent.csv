@@ -2,20 +2,26 @@
 Afghanistan;Asia
 Albania;Europe
 Algeria;Africa
+Andorra;Europe
 Angola;Africa
+Antigua & Barbuda;North America
 Argentina;South America
 Armenia;Asia
+Aruba;South America
 Australia;Oceania
+Austria;Europe
 Azerbaijan;Asia
+Barbados;North America
 Bahrain;Asia
 Bangladesh;Asia
 Belarus;Europe
 Belgium;Europe
 Belize;North America
 Benin;Africa
+Bermuda;North America
 Bhutan;Asia
 Bolivia;South America
-Bosnia and Herzegovina;Europe
+Bosnia Herzegovina;Europe
 Botswana;Africa
 Brazil;South America
 Bulgaria;Europe
@@ -24,17 +30,20 @@ Burundi;Africa
 Cambodia;Asia
 Cameroon;Africa
 Canada;North America
+Cape Verde;Africa
 Central African Republic;Africa
 Chad;Africa
 Chile;South America
-China;Asia
+China PR;Asia
+Chinese Taipei;Asia
 Colombia;South America
 Comoros;Africa
-Congo (Brazzaville);Africa
-Congo (Kinshasa);Africa
+Congo;Africa
+DR Congo;Africa
 Costa Rica;North America
 Croatia;Europe
 Cuba;North America
+Curacao;South America
 Cyprus;Asia
 Czech Republic;Europe
 Denmark;Europe
@@ -43,28 +52,36 @@ Dominican Republic;North America
 Ecuador;South America
 Egypt;Africa
 El Salvador;North America
+Equatorial Guinea;Africa
+England;Europe
+Eritrea;Africa
 Estonia;Europe
 Ethiopia;Africa
+Faroe Islands;Europe
 Finland;Europe
+France;Europe
 Gabon;Africa
 Gambia;Africa
 Georgia;Europe
 Germany;Europe
 Ghana;Africa
 Greece;Europe
+Grenada;North America
+Guam;Oceania
 Guatemala;North America
 Guinea;Africa
+Guinea Bissau;Africa
 Guyana;South America
 Haiti;North America
 Honduras;North America
-Hong Kong S.A.R. of China;Asia
+Hong Kong;Asia
 Hungary;Europe
 Iceland;Europe
 India;Asia
 Indonesia;Asia
 Iran;Asia
 Iraq;Asia
-Ireland;Europe
+Republic of Ireland;Europe
 Israel;Asia
 Italy;Europe
 Ivory Coast;Africa
@@ -74,6 +91,8 @@ Jordan;Asia
 Kazakhstan;Asia
 Kenya;Africa
 Kosovo;Europe
+Korea DPR;Asia
+Korea Republic;Asia
 Kuwait;Asia
 Kyrgyzstan;Asia
 Laos;Asia
@@ -83,41 +102,54 @@ Lesotho;Africa
 Liberia;Africa
 Libya;Africa
 Lithuania;Europe
+Liechtenstein;Europe
 Luxembourg;Europe
+Macau;Asia
 Madagascar;Africa
 Malawi;Africa
 Malaysia;Asia
 Maldives;Asia
 Mali;Africa
 Malta;Europe
+Mauritania;Africa
+Mexico;North America
+Moldova;Europe
 Montenegro;Europe
+Montserrat;North America
 Morocco;Africa
 Mozambique;Africa
 Myanmar;Asia
 Namibia;Africa
 Nepal;Asia
 Netherlands;Europe
+New Caledonia;Oceania
 New Zealand;Oceania
 Nicaragua;North America
 Niger;Africa
 Nigeria;Africa
 North Cyprus;Europe
 North Macedonia;Europe
+Northern Ireland;Europe
 Norway;Europe
 Oman;Asia
 Pakistan;Asia
-Palestinian Territories;Asia
+Palestine;Asia
 Panama;North America
 Paraguay;South America
 Peru;South America
+Papua New Guinea;Oceania
 Philippines;Asia
 Poland;Europe
 Portugal;Europe
+Puerto Rico;North America
 Qatar;Asia
 Romania;Europe
 Russia;Europe
 Rwanda;Africa
+Saint Kitts and Nevis;North America
+Saint Lucia;North America
 Saudi Arabia;Asia
+Scotland;Europe
 Senegal;Africa
 Serbia;Europe
 Sierra Leone;Africa
@@ -137,6 +169,7 @@ Swaziland;Africa
 Sweden;Europe
 Switzerland;Europe
 Syria;Asia
+São Tomé & Príncipe;Africa
 Taiwan Province of China;Asia
 Tajikistan;Asia
 Tanzania;Africa
@@ -155,6 +188,7 @@ Uruguay;South America
 Uzbekistan;Asia
 Venezuela;South America
 Vietnam;Asia
+Wales;Europe
 Yemen;Asia
 Zambia;Africa
 Zimbabwe;Africa
